@@ -4,6 +4,9 @@ body {
     text-align: center;
     height: 100vh;
 }
+div.goals{
+    text-align: left;
+}
 div.container {
     text-align: center;
 }
