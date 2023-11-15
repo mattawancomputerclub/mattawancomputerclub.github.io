@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background-color: aquamarine;
+    text-align: center;
+    height: 100vh;
+}
+div.goals{
+    text-align: left;
+}
+div.container {
+    text-align: center;
+}
+ul.myUL {
+   
+    text-align:left;
+}
+div.image{
+    margin-top: 10;
+ vertical-align: top;
+ viewport-fit: auto;
+}
+footer.footer{
+    text-align: left;
+}
