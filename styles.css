@@ -1,3 +1,27 @@
+header {
+    background-color: white;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    
+}
+nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+nav a:hover{
+    color: #ffcc00
+}
 body {
     margin: 0;
     background-color: aquamarine;
